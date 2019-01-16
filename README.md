@@ -9,7 +9,9 @@ Cloner le projet: `git clone https://github.com/khylias/mock-db-miaw`
 
 Installer les dépendances du projet: `npm install` ou `yarn`
 
-Lancer le mock : `npm run start` ou `node db.ts`
+Lancer le mock: `npm run start` ou `node db.ts`
+
+Accéder à l'API: http://localhost:3000
 
 ## Stack
 * json-server
