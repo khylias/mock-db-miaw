@@ -1,0 +1,889 @@
+{
+  "bikes": [
+    {
+      "id": 101,
+      "type": "vtc",
+      "name": "JBorisyuk",
+      "pricePerHour": 146,
+      "originalPrice": 433,
+      "rentDeposit": 163
+    },
+    {
+      "id": 102,
+      "type": "vtc",
+      "name": "MDupuy",
+      "pricePerHour": 165,
+      "originalPrice": 554,
+      "rentDeposit": 260
+    },
+    {
+      "id": 103,
+      "type": "ve",
+      "name": "AGates",
+      "pricePerHour": 85,
+      "originalPrice": 1197,
+      "rentDeposit": 215
+    },
+    {
+      "id": 104,
+      "type": "ve",
+      "name": "CWantland",
+      "pricePerHour": 60,
+      "originalPrice": 974,
+      "rentDeposit": 162
+    },
+    {
+      "id": 105,
+      "type": "ve",
+      "name": "NLau",
+      "pricePerHour": 99,
+      "originalPrice": 587,
+      "rentDeposit": 173
+    },
+    {
+      "id": 106,
+      "type": "vtt",
+      "name": "SBarrientos",
+      "pricePerHour": 172,
+      "originalPrice": 839,
+      "rentDeposit": 263
+    },
+    {
+      "id": 107,
+      "type": "vtt",
+      "name": "PSantos",
+      "pricePerHour": 112,
+      "originalPrice": 897,
+      "rentDeposit": 135
+    },
+    {
+      "id": 108,
+      "type": "vtt",
+      "name": "BWolfgram",
+      "pricePerHour": 157,
+      "originalPrice": 1184,
+      "rentDeposit": 210
+    },
+    {
+      "id": 109,
+      "type": "vtt",
+      "name": "JDedonato",
+      "pricePerHour": 211,
+      "originalPrice": 777,
+      "rentDeposit": 206
+    },
+    {
+      "id": 110,
+      "type": "vtt",
+      "name": "TBenson",
+      "pricePerHour": 144,
+      "originalPrice": 526,
+      "rentDeposit": 254
+    },
+    {
+      "id": 111,
+      "type": "vtt",
+      "name": "MNimick",
+      "pricePerHour": 66,
+      "originalPrice": 405,
+      "rentDeposit": 329
+    },
+    {
+      "id": 112,
+      "type": "vtt",
+      "name": "CKreigler",
+      "pricePerHour": 141,
+      "originalPrice": 1189,
+      "rentDeposit": 142
+    },
+    {
+      "id": 113,
+      "type": "vtt",
+      "name": "SStoltenberg",
+      "pricePerHour": 195,
+      "originalPrice": 487,
+      "rentDeposit": 325
+    },
+    {
+      "id": 114,
+      "type": "rosa",
+      "name": "GPachler",
+      "pricePerHour": 170,
+      "originalPrice": 296,
+      "rentDeposit": 388
+    },
+    {
+      "id": 115,
+      "type": "rosa",
+      "name": "DBurkland",
+      "pricePerHour": 121,
+      "originalPrice": 531,
+      "rentDeposit": 272
+    },
+    {
+      "id": 116,
+      "type": "rosa",
+      "name": "SMangat",
+      "pricePerHour": 191,
+      "originalPrice": 830,
+      "rentDeposit": 304
+    },
+    {
+      "id": 117,
+      "type": "vae",
+      "name": "VCrompton",
+      "pricePerHour": 237,
+      "originalPrice": 460,
+      "rentDeposit": 290
+    },
+    {
+      "id": 118,
+      "type": "vae",
+      "name": "LMohamed",
+      "pricePerHour": 164,
+      "originalPrice": 826,
+      "rentDeposit": 309
+    },
+    {
+      "id": 119,
+      "type": "vae",
+      "name": "ASeguin",
+      "pricePerHour": 109,
+      "originalPrice": 547,
+      "rentDeposit": 131
+    },
+    {
+      "id": 120,
+      "type": "vae",
+      "name": "IHolliday",
+      "pricePerHour": 94,
+      "originalPrice": 987,
+      "rentDeposit": 115
+    },
+    {
+      "id": 121,
+      "type": "vae",
+      "name": "KGuendoud",
+      "pricePerHour": 205,
+      "originalPrice": 778,
+      "rentDeposit": 309
+    },
+    {
+      "id": 122,
+      "type": "vae",
+      "name": "KGrimm",
+      "pricePerHour": 111,
+      "originalPrice": 259,
+      "rentDeposit": 325
+    },
+    {
+      "id": 123,
+      "type": "vae",
+      "name": "KMalstrom",
+      "pricePerHour": 122,
+      "originalPrice": 981,
+      "rentDeposit": 210
+    },
+    {
+      "id": 124,
+      "type": "vae",
+      "name": "ABarowsky",
+      "pricePerHour": 142,
+      "originalPrice": 952,
+      "rentDeposit": 351
+    },
+    {
+      "id": 125,
+      "type": "vae",
+      "name": "VSherstan",
+      "pricePerHour": 108,
+      "originalPrice": 456,
+      "rentDeposit": 159
+    },
+    {
+      "id": 126,
+      "type": "vae",
+      "name": "AKey",
+      "pricePerHour": 98,
+      "originalPrice": 582,
+      "rentDeposit": 244
+    },
+    {
+      "id": 127,
+      "type": "td",
+      "name": "PGlynn",
+      "pricePerHour": 237,
+      "originalPrice": 1087,
+      "rentDeposit": 186
+    },
+    {
+      "id": 128,
+      "type": "td",
+      "name": "SHabib",
+      "pricePerHour": 171,
+      "originalPrice": 1191,
+      "rentDeposit": 283
+    },
+    {
+      "id": 129,
+      "type": "td",
+      "name": "RVanburen",
+      "pricePerHour": 212,
+      "originalPrice": 1113,
+      "rentDeposit": 157
+    },
+    {
+      "id": 130,
+      "type": "td",
+      "name": "DDiriwachter",
+      "pricePerHour": 64,
+      "originalPrice": 836,
+      "rentDeposit": 234
+    },
+    {
+      "id": 131,
+      "type": "vae",
+      "name": "KRider",
+      "pricePerHour": 62,
+      "originalPrice": 375,
+      "rentDeposit": 141
+    },
+    {
+      "id": 132,
+      "type": "td",
+      "name": "PKish",
+      "pricePerHour": 194,
+      "originalPrice": 1193,
+      "rentDeposit": 309
+    },
+    {
+      "id": 133,
+      "type": "td",
+      "name": "MLeeman",
+      "pricePerHour": 196,
+      "originalPrice": 479,
+      "rentDeposit": 262
+    },
+    {
+      "id": 134,
+      "type": "vtc",
+      "name": "IHopkins",
+      "pricePerHour": 152,
+      "originalPrice": 761,
+      "rentDeposit": 232
+    },
+    {
+      "id": 135,
+      "type": "vtc",
+      "name": "HBernstein",
+      "pricePerHour": 56,
+      "originalPrice": 303,
+      "rentDeposit": 344
+    },
+    {
+      "id": 136,
+      "type": "vtc",
+      "name": "PWilcox",
+      "pricePerHour": 160,
+      "originalPrice": 581,
+      "rentDeposit": 241
+    },
+    {
+      "id": 137,
+      "type": "vtc",
+      "name": "TAltermatt",
+      "pricePerHour": 70,
+      "originalPrice": 907,
+      "rentDeposit": 380
+    },
+    {
+      "id": 138,
+      "type": "vtc",
+      "name": "CHampton",
+      "pricePerHour": 222,
+      "originalPrice": 921,
+      "rentDeposit": 374
+    },
+    {
+      "id": 139,
+      "type": "vtc",
+      "name": "KBoudreaux",
+      "pricePerHour": 124,
+      "originalPrice": 490,
+      "rentDeposit": 330
+    },
+    {
+      "id": 140,
+      "type": "vtc",
+      "name": "TShaffer",
+      "pricePerHour": 228,
+      "originalPrice": 521,
+      "rentDeposit": 335
+    },
+    {
+      "id": 141,
+      "type": "vtc",
+      "name": "HKellams",
+      "pricePerHour": 223,
+      "originalPrice": 766,
+      "rentDeposit": 206
+    },
+    {
+      "id": 142,
+      "type": "vtc",
+      "name": "CNicols",
+      "pricePerHour": 47,
+      "originalPrice": 973,
+      "rentDeposit": 241
+    },
+    {
+      "id": 143,
+      "type": "vtc",
+      "name": "JMore",
+      "pricePerHour": 242,
+      "originalPrice": 915,
+      "rentDeposit": 155
+    },
+    {
+      "id": 144,
+      "type": "vtc",
+      "name": "SAntunes",
+      "pricePerHour": 248,
+      "originalPrice": 1044,
+      "rentDeposit": 355
+    },
+    {
+      "id": 145,
+      "type": "vtc",
+      "name": "LDixon",
+      "pricePerHour": 69,
+      "originalPrice": 757,
+      "rentDeposit": 315
+    },
+    {
+      "id": 146,
+      "type": "vtt",
+      "name": "BEarls",
+      "pricePerHour": 123,
+      "originalPrice": 635,
+      "rentDeposit": 262
+    },
+    {
+      "id": 147,
+      "type": "vtt",
+      "name": "WChandrasekahran",
+      "pricePerHour": 101,
+      "originalPrice": 648,
+      "rentDeposit": 349
+    },
+    {
+      "id": 148,
+      "type": "vtt",
+      "name": "RUser",
+      "pricePerHour": 171,
+      "originalPrice": 598,
+      "rentDeposit": 276
+    },
+    {
+      "id": 149,
+      "type": "vtt",
+      "name": "MPento",
+      "pricePerHour": 101,
+      "originalPrice": 572,
+      "rentDeposit": 350
+    },
+    {
+      "id": 150,
+      "type": "vtt",
+      "name": "KStephens",
+      "pricePerHour": 231,
+      "originalPrice": 1058,
+      "rentDeposit": 289
+    },
+    {
+      "id": 151,
+      "type": "vtt",
+      "name": "MVollrath",
+      "pricePerHour": 187,
+      "originalPrice": 989,
+      "rentDeposit": 100
+    },
+    {
+      "id": 152,
+      "type": "vtt",
+      "name": "KBogenschneider",
+      "pricePerHour": 242,
+      "originalPrice": 337,
+      "rentDeposit": 136
+    },
+    {
+      "id": 153,
+      "type": "vtt",
+      "name": "AHefner",
+      "pricePerHour": 248,
+      "originalPrice": 572,
+      "rentDeposit": 294
+    }
+  ],
+  "dictionnaries": [
+    {
+      "id": "bikeTypes",
+      "type": [
+        {
+          "id": "vtc",
+          "text": "Velo tout chemin"
+        },
+        {
+          "id": "vtt",
+          "text": "Velo tout terrain"
+        },
+        {
+          "id": "vae",
+          "text": "Velo à assistance électrique"
+        },
+        {
+          "id": "ve",
+          "text": "Velo enfant"
+        },
+        {
+          "id": "rosa",
+          "text": "Rosalie"
+        },
+        {
+          "id": "td",
+          "text": "Tandem"
+        }
+      ]
+    },
+    {
+      "id": "orderStatus",
+      "status": [
+        {
+          "id": "cancel",
+          "text": "Annulée"
+        },
+        {
+          "id": "inProgress",
+          "text": "En cours"
+        },
+        {
+          "id": "waitingPayment",
+          "text": "En attente de paiement"
+        },
+        {
+          "id": "validated",
+          "text": "Validée"
+        },
+        {
+          "id": "finished",
+          "text": "Terminée"
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": 7652,
+      "date": "1984-09-02T05:22:25.984Z",
+      "clientID": 83,
+      "bikes": [
+        101,
+        102
+      ],
+      "orderStatus": "cancel"
+    },
+    {
+      "id": 7653,
+      "date": "2082-04-28T11:59:20.677Z",
+      "clientID": 4,
+      "bikes": [
+        "7CC",
+        "q3y",
+        "Jdl"
+      ],
+      "orderStatus": "inProgress"
+    },
+    {
+      "id": 7654,
+      "date": "1914-01-17T12:45:35.034Z",
+      "clientID": 63,
+      "bikes": [
+        "V8R",
+        "jUp",
+        "N9K"
+      ],
+      "orderStatus": "inProgress"
+    },
+    {
+      "id": 7655,
+      "date": "2043-10-16T00:29:33.797Z",
+      "clientID": 98,
+      "bikes": [
+        "tdR",
+        "vYd",
+        "AYv"
+      ],
+      "orderStatus": "waitingPayment"
+    },
+    {
+      "id": 7656,
+      "date": "2018-06-02T14:19:03.660Z",
+      "clientID": 40,
+      "bikes": [
+        "DPc",
+        "ljc",
+        "UcZ"
+      ],
+      "orderStatus": "validated"
+    },
+    {
+      "id": 7657,
+      "date": "1941-05-26T05:56:38.134Z",
+      "clientID": 71,
+      "bikes": [
+        "2gZ",
+        "v9H",
+        "o6U"
+      ],
+      "orderStatus": "validated"
+    },
+    {
+      "id": 7658,
+      "date": "2054-03-03T10:01:03.667Z",
+      "clientID": 29,
+      "bikes": [
+        "4Io",
+        "RjL",
+        "b0q"
+      ],
+      "orderStatus": "validated"
+    },
+    {
+      "id": 7659,
+      "date": "1943-01-23T15:07:30.358Z",
+      "clientID": 27,
+      "bikes": [
+        "Wlz",
+        "mul",
+        "11M"
+      ],
+      "orderStatus": "validated"
+    },
+    {
+      "id": 7660,
+      "date": "1988-02-26T12:20:32.766Z",
+      "clientID": 87,
+      "bikes": [
+        "2Fd",
+        "7EI",
+        "dyy"
+      ],
+      "orderStatus": "finished"
+    },
+    {
+      "id": 7661,
+      "date": "1988-07-31T04:39:52.210Z",
+      "clientID": 10,
+      "bikes": [
+        "bYu",
+        "9MD",
+        "ay0"
+      ],
+      "orderStatus": "finished"
+    },
+    {
+      "id": 7662,
+      "date": "1927-02-04T11:53:22.492Z",
+      "clientID": 59,
+      "bikes": [
+        "26Y",
+        "kmX",
+        "j81"
+      ],
+      "orderStatus": "inProgress"
+    },
+    {
+      "id": 7663,
+      "date": "2005-01-08T16:48:01.574Z",
+      "clientID": 70,
+      "bikes": [
+        "2wo",
+        "0AL",
+        "1UN"
+      ],
+      "orderStatus": "inProgress"
+    }
+  ],
+  "users": [
+    {
+      "id": 83,
+      "firstName": "Jimmy",
+      "lastName": "Melvin",
+      "password": "tStRHspO",
+      "email": "JOshins@nunc.com",
+      "phoneNumber": "2998379767",
+      "birthDate": "2041-01-13T05:37:51.099Z",
+      "address": {
+        "streetAddress": "9100 Placerat Dr",
+        "city": "West Chester",
+        "state": "SC",
+        "zip": "84579"
+      }
+    },
+    {
+      "id": 84,
+      "firstName": "Luis",
+      "lastName": "Douglass",
+      "password": "QmkHrn6e",
+      "email": "NChacon@lacus.gov",
+      "phoneNumber": "5996987635",
+      "birthDate": "2031-05-31T11:57:27.806Z",
+      "address": {
+        "streetAddress": "3678 Tortor Ln",
+        "city": "Wahiawa",
+        "state": "VA",
+        "zip": "90014"
+      }
+    },
+    {
+      "id": 85,
+      "firstName": "Roslyn",
+      "lastName": "Woodhouse",
+      "password": "VgiwcvA5",
+      "email": "DWilley@at.gov",
+      "phoneNumber": "6907565001",
+      "birthDate": "2090-11-17T21:19:22.172Z",
+      "address": {
+        "streetAddress": "1543 Dolor Ln",
+        "city": "Oxford",
+        "state": "PA",
+        "zip": "19251"
+      }
+    },
+    {
+      "id": 86,
+      "firstName": "Yong",
+      "lastName": "Mccollum",
+      "password": "OoEXAk4o",
+      "email": "VBrestar@etiam.net",
+      "phoneNumber": "9422619115",
+      "birthDate": "2050-12-23T13:37:44.438Z",
+      "address": {
+        "streetAddress": "3715 Molestie St",
+        "city": "Roanoke",
+        "state": "IN",
+        "zip": "47976"
+      }
+    },
+    {
+      "id": 87,
+      "firstName": "Pelagija",
+      "lastName": "Sobel",
+      "password": "N4lskOPw",
+      "email": "CChase@curabitur.com",
+      "phoneNumber": "1478421122",
+      "birthDate": "2096-02-18T15:16:46.360Z",
+      "address": {
+        "streetAddress": "4217 Ipsum Ave",
+        "city": "Spencer",
+        "state": "OK",
+        "zip": "94299"
+      }
+    },
+    {
+      "id": 88,
+      "firstName": "Greg",
+      "lastName": "Painter",
+      "password": "kOpblC3S",
+      "email": "VLlaneza@sed.gov",
+      "phoneNumber": "5787589232",
+      "birthDate": "2013-03-09T11:11:06.336Z",
+      "address": {
+        "streetAddress": "4478 Fringilla St",
+        "city": "Johnson County",
+        "state": "OK",
+        "zip": "19955"
+      }
+    },
+    {
+      "id": 89,
+      "firstName": "Kamaniee",
+      "lastName": "Ockerman",
+      "password": "4ZfJmO6R",
+      "email": "MSchuster@ac.com",
+      "phoneNumber": "1871376082",
+      "birthDate": "2003-02-26T20:32:51.727Z",
+      "address": {
+        "streetAddress": "2866 Sit Ave",
+        "city": "Hampton",
+        "state": "MN",
+        "zip": "66019"
+      }
+    },
+    {
+      "id": 90,
+      "firstName": "Kristy",
+      "lastName": "Jellison",
+      "password": "TEp7OIvk",
+      "email": "NTorres@orci.ly",
+      "phoneNumber": "7040176977",
+      "birthDate": "2089-03-26T14:09:17.363Z",
+      "address": {
+        "streetAddress": "515 Augue Ln",
+        "city": "Wheeling",
+        "state": "IA",
+        "zip": "61156"
+      }
+    },
+    {
+      "id": 91,
+      "firstName": "Girish",
+      "lastName": "Apotheloz",
+      "password": "TzalTabl",
+      "email": "SSovine@pulvinar.ly",
+      "phoneNumber": "9724800149",
+      "birthDate": "2099-01-24T17:37:17.081Z",
+      "address": {
+        "streetAddress": "4523 Placerat Dr",
+        "city": "Mount Vernon",
+        "state": "DE",
+        "zip": "48898"
+      }
+    },
+    {
+      "id": 92,
+      "firstName": "Marc",
+      "lastName": "Belcher",
+      "password": "aZLpIkZQ",
+      "email": "CSpry@morbi.ly",
+      "phoneNumber": "8417831982",
+      "birthDate": "2027-03-09T15:43:02.822Z",
+      "address": {
+        "streetAddress": "7747 Nullam Dr",
+        "city": "Knightdale",
+        "state": "KS",
+        "zip": "50762"
+      }
+    },
+    {
+      "id": 93,
+      "firstName": "Karolis",
+      "lastName": "Kallas",
+      "password": "CjOOGOzj",
+      "email": "LErica@morbi.net",
+      "phoneNumber": "4470155214",
+      "birthDate": "2043-10-07T18:31:15.477Z",
+      "address": {
+        "streetAddress": "1511 Nec Ct",
+        "city": "Glendale",
+        "state": "NV",
+        "zip": "51363"
+      }
+    },
+    {
+      "id": 94,
+      "firstName": "Janeen",
+      "lastName": "Mcallister",
+      "password": "k7oD6NYz",
+      "email": "AOsborne@porttitor.com",
+      "phoneNumber": "1201369668",
+      "birthDate": "2022-08-22T07:25:06.794Z",
+      "address": {
+        "streetAddress": "8619 Elit Dr",
+        "city": "Billerica",
+        "state": "AL",
+        "zip": "20382"
+      }
+    },
+    {
+      "id": 95,
+      "firstName": "Charlotte",
+      "lastName": "Patterson",
+      "password": "iB0HlMQp",
+      "email": "BFogle@sollicitudin.ly",
+      "phoneNumber": "9249897431",
+      "birthDate": "2014-12-11T16:54:36.809Z",
+      "address": {
+        "streetAddress": "2286 Tempor St",
+        "city": "Panama City",
+        "state": "ME",
+        "zip": "60545"
+      }
+    },
+    {
+      "id": 96,
+      "firstName": "Sean",
+      "lastName": "Patillo",
+      "password": "ztT4ujIA",
+      "email": "DGram@libero.io",
+      "phoneNumber": "5139654482",
+      "birthDate": "2035-11-19T04:27:44.865Z",
+      "address": {
+        "streetAddress": "6135 Consequat Ct",
+        "city": "Berlin",
+        "state": "NE",
+        "zip": "40786"
+      }
+    },
+    {
+      "id": 97,
+      "firstName": "RoMeka",
+      "lastName": "Guendoud",
+      "password": "w5fyr7E9",
+      "email": "BReinhardt@molestie.io",
+      "phoneNumber": "8678191455",
+      "birthDate": "2032-05-31T19:51:22.256Z",
+      "address": {
+        "streetAddress": "1310 Et Dr",
+        "city": "St. George",
+        "state": "AZ",
+        "zip": "26273"
+      }
+    },
+    {
+      "id": 98,
+      "firstName": "Augustine",
+      "lastName": "Bean",
+      "password": "7t3rQHDM",
+      "email": "PGarbe@lacus.net",
+      "phoneNumber": "3650262843",
+      "birthDate": "2017-03-29T22:20:01.860Z",
+      "address": {
+        "streetAddress": "4451 Pulvinar Dr",
+        "city": "Powder Springs",
+        "state": "SD",
+        "zip": "83196"
+      }
+    },
+    {
+      "id": 99,
+      "firstName": "Alonzo",
+      "lastName": "Darling",
+      "password": "8t02qlLU",
+      "email": "SWray@sed.gov",
+      "phoneNumber": "2041337557",
+      "birthDate": "2095-03-10T20:53:47.931Z",
+      "address": {
+        "streetAddress": "8395 Eget Rd",
+        "city": "Annapolis",
+        "state": "RI",
+        "zip": "37192"
+      }
+    },
+    {
+      "id": 100,
+      "firstName": "Teresa",
+      "lastName": "Schuessler",
+      "password": "YmIgEiAr",
+      "email": "APick@nec.org",
+      "phoneNumber": "2781683972",
+      "birthDate": "2044-10-14T07:35:31.867Z",
+      "address": {
+        "streetAddress": "6739 Aliquam Rd",
+        "city": "Nauvoo",
+        "state": "FL",
+        "zip": "95411"
+      }
+    }
+  ]
+}
