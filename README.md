@@ -9,7 +9,7 @@ Cloner le projet: `git clone https://github.com/khylias/mock-db-miaw`
 
 Installer les dépendances du projet: `npm install` ou `yarn`
 
-Lancer le mock: `npm run db`
+Lancer le mock: `npm run start`
 
 Accéder à l'API: http://localhost:3000
 
