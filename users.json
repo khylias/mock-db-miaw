@@ -1,16 +1,289 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "user1",
-        "email": "user1@email.com",
-        "password": "user"
-      },
-      {
-        "id": 2,
-        "name": "user2",
-        "email": "user2@email.com",
-        "password": "user"
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Pascal",
+      "lastName": "Dantiez",
+      "password": "admin",
+      "email": "admin@location-velo.com",
+      "phoneNumber": "2998379767",
+      "birthDate": "2041-01-13T05:37:51.099Z",
+      "address": {
+        "streetAddress": "9100 Placerat Dr",
+        "city": "West Chester",
+        "state": "SC",
+        "zip": "84579"
       }
-    ]
-  }
+    },
+    {
+      "id": 83,
+      "firstName": "Jimmy",
+      "lastName": "Melvin",
+      "password": "tStRHspO",
+      "email": "JOshins@nunc.com",
+      "phoneNumber": "2998379767",
+      "birthDate": "2041-01-13T05:37:51.099Z",
+      "address": {
+        "streetAddress": "9100 Placerat Dr",
+        "city": "West Chester",
+        "state": "SC",
+        "zip": "84579"
+      }
+    },
+    {
+      "id": 84,
+      "firstName": "Luis",
+      "lastName": "Douglass",
+      "password": "QmkHrn6e",
+      "email": "NChacon@lacus.gov",
+      "phoneNumber": "5996987635",
+      "birthDate": "2031-05-31T11:57:27.806Z",
+      "address": {
+        "streetAddress": "3678 Tortor Ln",
+        "city": "Wahiawa",
+        "state": "VA",
+        "zip": "90014"
+      }
+    },
+    {
+      "id": 85,
+      "firstName": "Roslyn",
+      "lastName": "Woodhouse",
+      "password": "VgiwcvA5",
+      "email": "DWilley@at.gov",
+      "phoneNumber": "6907565001",
+      "birthDate": "2090-11-17T21:19:22.172Z",
+      "address": {
+        "streetAddress": "1543 Dolor Ln",
+        "city": "Oxford",
+        "state": "PA",
+        "zip": "19251"
+      }
+    },
+    {
+      "id": 86,
+      "firstName": "Yong",
+      "lastName": "Mccollum",
+      "password": "OoEXAk4o",
+      "email": "VBrestar@etiam.net",
+      "phoneNumber": "9422619115",
+      "birthDate": "2050-12-23T13:37:44.438Z",
+      "address": {
+        "streetAddress": "3715 Molestie St",
+        "city": "Roanoke",
+        "state": "IN",
+        "zip": "47976"
+      }
+    },
+    {
+      "id": 87,
+      "firstName": "Pelagija",
+      "lastName": "Sobel",
+      "password": "N4lskOPw",
+      "email": "CChase@curabitur.com",
+      "phoneNumber": "1478421122",
+      "birthDate": "2096-02-18T15:16:46.360Z",
+      "address": {
+        "streetAddress": "4217 Ipsum Ave",
+        "city": "Spencer",
+        "state": "OK",
+        "zip": "94299"
+      }
+    },
+    {
+      "id": 88,
+      "firstName": "Greg",
+      "lastName": "Painter",
+      "password": "kOpblC3S",
+      "email": "VLlaneza@sed.gov",
+      "phoneNumber": "5787589232",
+      "birthDate": "2013-03-09T11:11:06.336Z",
+      "address": {
+        "streetAddress": "4478 Fringilla St",
+        "city": "Johnson County",
+        "state": "OK",
+        "zip": "19955"
+      }
+    },
+    {
+      "id": 89,
+      "firstName": "Kamaniee",
+      "lastName": "Ockerman",
+      "password": "4ZfJmO6R",
+      "email": "MSchuster@ac.com",
+      "phoneNumber": "1871376082",
+      "birthDate": "2003-02-26T20:32:51.727Z",
+      "address": {
+        "streetAddress": "2866 Sit Ave",
+        "city": "Hampton",
+        "state": "MN",
+        "zip": "66019"
+      }
+    },
+    {
+      "id": 90,
+      "firstName": "Kristy",
+      "lastName": "Jellison",
+      "password": "TEp7OIvk",
+      "email": "NTorres@orci.ly",
+      "phoneNumber": "7040176977",
+      "birthDate": "2089-03-26T14:09:17.363Z",
+      "address": {
+        "streetAddress": "515 Augue Ln",
+        "city": "Wheeling",
+        "state": "IA",
+        "zip": "61156"
+      }
+    },
+    {
+      "id": 91,
+      "firstName": "Girish",
+      "lastName": "Apotheloz",
+      "password": "TzalTabl",
+      "email": "SSovine@pulvinar.ly",
+      "phoneNumber": "9724800149",
+      "birthDate": "2099-01-24T17:37:17.081Z",
+      "address": {
+        "streetAddress": "4523 Placerat Dr",
+        "city": "Mount Vernon",
+        "state": "DE",
+        "zip": "48898"
+      }
+    },
+    {
+      "id": 92,
+      "firstName": "Marc",
+      "lastName": "Belcher",
+      "password": "aZLpIkZQ",
+      "email": "CSpry@morbi.ly",
+      "phoneNumber": "8417831982",
+      "birthDate": "2027-03-09T15:43:02.822Z",
+      "address": {
+        "streetAddress": "7747 Nullam Dr",
+        "city": "Knightdale",
+        "state": "KS",
+        "zip": "50762"
+      }
+    },
+    {
+      "id": 93,
+      "firstName": "Karolis",
+      "lastName": "Kallas",
+      "password": "CjOOGOzj",
+      "email": "LErica@morbi.net",
+      "phoneNumber": "4470155214",
+      "birthDate": "2043-10-07T18:31:15.477Z",
+      "address": {
+        "streetAddress": "1511 Nec Ct",
+        "city": "Glendale",
+        "state": "NV",
+        "zip": "51363"
+      }
+    },
+    {
+      "id": 94,
+      "firstName": "Janeen",
+      "lastName": "Mcallister",
+      "password": "k7oD6NYz",
+      "email": "AOsborne@porttitor.com",
+      "phoneNumber": "1201369668",
+      "birthDate": "2022-08-22T07:25:06.794Z",
+      "address": {
+        "streetAddress": "8619 Elit Dr",
+        "city": "Billerica",
+        "state": "AL",
+        "zip": "20382"
+      }
+    },
+    {
+      "id": 95,
+      "firstName": "Charlotte",
+      "lastName": "Patterson",
+      "password": "iB0HlMQp",
+      "email": "BFogle@sollicitudin.ly",
+      "phoneNumber": "9249897431",
+      "birthDate": "2014-12-11T16:54:36.809Z",
+      "address": {
+        "streetAddress": "2286 Tempor St",
+        "city": "Panama City",
+        "state": "ME",
+        "zip": "60545"
+      }
+    },
+    {
+      "id": 96,
+      "firstName": "Sean",
+      "lastName": "Patillo",
+      "password": "ztT4ujIA",
+      "email": "DGram@libero.io",
+      "phoneNumber": "5139654482",
+      "birthDate": "2035-11-19T04:27:44.865Z",
+      "address": {
+        "streetAddress": "6135 Consequat Ct",
+        "city": "Berlin",
+        "state": "NE",
+        "zip": "40786"
+      }
+    },
+    {
+      "id": 97,
+      "firstName": "RoMeka",
+      "lastName": "Guendoud",
+      "password": "w5fyr7E9",
+      "email": "BReinhardt@molestie.io",
+      "phoneNumber": "8678191455",
+      "birthDate": "2032-05-31T19:51:22.256Z",
+      "address": {
+        "streetAddress": "1310 Et Dr",
+        "city": "St. George",
+        "state": "AZ",
+        "zip": "26273"
+      }
+    },
+    {
+      "id": 98,
+      "firstName": "Augustine",
+      "lastName": "Bean",
+      "password": "7t3rQHDM",
+      "email": "PGarbe@lacus.net",
+      "phoneNumber": "3650262843",
+      "birthDate": "2017-03-29T22:20:01.860Z",
+      "address": {
+        "streetAddress": "4451 Pulvinar Dr",
+        "city": "Powder Springs",
+        "state": "SD",
+        "zip": "83196"
+      }
+    },
+    {
+      "id": 99,
+      "firstName": "Alonzo",
+      "lastName": "Darling",
+      "password": "8t02qlLU",
+      "email": "SWray@sed.gov",
+      "phoneNumber": "2041337557",
+      "birthDate": "2095-03-10T20:53:47.931Z",
+      "address": {
+        "streetAddress": "8395 Eget Rd",
+        "city": "Annapolis",
+        "state": "RI",
+        "zip": "37192"
+      }
+    },
+    {
+      "id": 100,
+      "firstName": "Teresa",
+      "lastName": "Schuessler",
+      "password": "YmIgEiAr",
+      "email": "APick@nec.org",
+      "phoneNumber": "2781683972",
+      "birthDate": "2044-10-14T07:35:31.867Z",
+      "address": {
+        "streetAddress": "6739 Aliquam Rd",
+        "city": "Nauvoo",
+        "state": "FL",
+        "zip": "95411"
+      }
+    }
+  ]
+}
